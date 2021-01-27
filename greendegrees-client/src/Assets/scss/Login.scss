@@ -1,0 +1,15 @@
+.login_fill {
+    min-height: 100vh;
+    background-color: rgb(24, 131, 57);
+    color: white;
+    .center_div {
+        margin-top: 35%;
+        a {
+            color: white;
+            text-decoration: underline;
+        }
+    }
+    button {
+        display: none;
+    }
+};

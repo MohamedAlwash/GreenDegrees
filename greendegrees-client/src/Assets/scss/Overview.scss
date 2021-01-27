@@ -1,0 +1,26 @@
+.overview {
+    color: white;
+    margin-top: 10%;
+
+    h1 {
+        color:  rgb(24, 131, 57);
+        margin-bottom: 10%;
+    }
+
+    p.form-control {
+        background-color:  rgb(24, 131, 57);
+        color: white;
+    }
+
+    .circleTemp {
+        height: 100px;
+        width: 100px;
+        display: table-cell;
+        text-align: center;
+        vertical-align: top;
+        border-radius: 50%;
+        background: green;
+        display: table;
+        margin: 0 auto;
+      }
+}

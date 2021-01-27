@@ -1,0 +1,19 @@
+.plants {
+    margin-top: 10%;
+
+    h3 {
+        color:  rgb(24, 131, 57);
+        margin-bottom: 10%;
+    }
+
+    .card {
+        border: 1px solid;
+        
+        .card-body {
+            background-color: rgb(24, 131, 57);
+            svg {
+                color: #2d4b6a;
+            }
+        }
+    }
+}

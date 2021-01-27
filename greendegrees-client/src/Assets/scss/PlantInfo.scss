@@ -1,0 +1,48 @@
+.plantinfo {
+    color: white;
+    min-height: 100vh;
+    background-color: rgb(24, 131, 57);
+    
+    svg {
+        color: white;
+    }
+
+    h3 {
+        padding-top: 5%;
+        padding-bottom: 5%;
+    }
+
+    img {
+        max-width: 100%;
+    }
+
+    .accordion-section .panel-default > .panel-heading {
+        border: 0;
+        background: #f4f4f4;
+        padding: 6px;
+    }
+    .accordion-section .panel-default .panel-title a {
+        display: block;
+        font-style: italic;
+        font-size: 1.0rem;
+        color: black;
+    }
+    
+    // .accordion-section .panel-default .panel-title a:after {
+    //     font-family: 'FontAwesome';
+    //     font-style: normal;
+    //     font-size: 3rem;
+    //     content: "\f106";
+    //     color: #1f7de2;
+    //     float: right;
+    //     margin-top: -12px;
+    // }
+    
+    // .accordion-section .panel-default .panel-title a.collapsed:after {
+    //     content: "\f107";
+    // }
+    
+    .accordion-section .panel-default .panel-body {
+        font-size: 13px;
+    }
+}
